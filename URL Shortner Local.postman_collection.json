@@ -33,7 +33,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n  \"username\": \"diwakar\",\r\n  \"email\": \"diwakar@gmail.com\",\r\n  \"password\": \"Rkind19@\",\r\n  \"role\": [\"ROLE_USER\"]\r\n}",
+          "raw": "{\r\n  \"username\": \"pranil\",\r\n  \"email\": \"pranil@gmail.com\",\r\n  \"password\": \"praniliskool\",\r\n  \"role\": [\"ROLE_USER\"]\r\n}",
           "options": {
             "raw": {
               "language": "json"
@@ -64,7 +64,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n  \"username\": \"diwakar\",\r\n  \"password\": \"Rkind19@\"\r\n}",
+          "raw": "{\r\n  \"username\": \"pranil\",\r\n  \"password\": \"praniliskool\"\r\n}",
           "options": {
             "raw": {
               "language": "json"
